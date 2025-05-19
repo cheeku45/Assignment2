@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+
+h1, p {
+    text-align: center;
+}
+#boxes{
+     width: 200px;
+    height: 200px;
+    background-color: rgb(5, 240, 217);
+    position: relative;
+    border: 2px solid black;
+}
